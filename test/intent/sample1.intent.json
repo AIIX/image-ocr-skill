@@ -1,0 +1,7 @@
+{
+  "utterance": "ocr",
+  "intent_type": "ImgOcrKeywordIntent",
+  "intent": {
+    "ImgOcrKeyword": "image url"
+  }
+}
